@@ -12,6 +12,18 @@ const Projects = () => {
       description:
         "A dynamic hotel booking platform with room management, backend integration, and smooth server-side processing.",
     },
+    {
+      title: "📚 Java Library Manager",
+      tech: "Java, JavaFX/Swing, File I/O",
+      description:
+        "A desktop application to manage book inventory, borrow/return logs, and export statistics. Recently upgraded from Swing to JavaFX with CSV export, genre stats, and a refreshed UI.",
+    },
+    {
+      title: "🌐 Portfolio Website",
+      tech: "React.js, Tailwind CSS, FastAPI",
+      description:
+        "Fully responsive developer portfolio with animated navigation, contact form with backend integration, and projects pulled from resume. Hosted on GitHub with live deployment pipeline.",
+    },
   ];
 
   return (
